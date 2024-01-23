@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srikanth-31
-- 👀 I’m interested in any domain of software field
+- 👀 I’m interested in any domain of Web development
 - 🌱 I’m currently learning Frontend development
 - 📫 You can reach me through E-mail srikanthganji31@gmail.com
 
